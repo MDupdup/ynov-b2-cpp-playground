@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Malo/CLionProjects/untilted/Monstres.cpp
+Monstres.h
+C:/Users/Malo/CLionProjects/untilted/Monstres.h
+string
+-
+
+C:/Users/Malo/CLionProjects/untilted/Monstres.h
+
+C:/Users/Malo/CLionProjects/untilted/Play.cpp
+Play.h
+C:/Users/Malo/CLionProjects/untilted/Play.h
+Monstres.cpp
+C:/Users/Malo/CLionProjects/untilted/Monstres.cpp
+
+C:/Users/Malo/CLionProjects/untilted/Play.h
+
+C:/Users/Malo/CLionProjects/untilted/main.cpp
+iostream
+-
+string
+-
+sstream
+-
+cmath
+-
+cstdio
+-
+vector
+-
+iostream
+-
+algorithm
+-
+Monstres.cpp
+C:/Users/Malo/CLionProjects/untilted/Monstres.cpp
+
